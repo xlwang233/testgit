@@ -1,1 +1,2 @@
 Test usage of git.
+Today is a good day.
